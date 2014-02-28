@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 d9abc8075e65aee5a5f5445b0f4c023b406d85ea Scott Tobias <Scott@farclass.com> 1393291021 -0500	branch: Created from origin/Ajax
+d9abc8075e65aee5a5f5445b0f4c023b406d85ea 0f2a589ac260bfc96aa79b9fd2a228457dce26ce Scott Tobias <Scott@farclass.com> 1393291311 -0500	commit: tmptemplate
+0f2a589ac260bfc96aa79b9fd2a228457dce26ce 61e4831b780107ff27784eda5a97e9ff04a52a79 Scott Tobias <Scott@farclass.com> 1393291508 -0500	reset: moving to 61e4831b780107ff27784eda5a97e9ff04a52a79
+61e4831b780107ff27784eda5a97e9ff04a52a79 07b0a0a0737cdb8cbadb54645db5a4093748fbab Scott Tobias <Scott@farclass.com> 1393292621 -0500	commit: added tmpTemplate to git - to ease restores
+07b0a0a0737cdb8cbadb54645db5a4093748fbab 17e5552938fd029a4ceb292e58ce6b5ba08ddd52 Scott Tobias <Scott@farclass.com> 1393345534 -0500	commit: All functionality complete
+17e5552938fd029a4ceb292e58ce6b5ba08ddd52 7a1e5704d8e464eff915736b7d8ccb3ef31846e5 Scott Tobias <Scott@farclass.com> 1393531490 -0500	commit: yes
+7a1e5704d8e464eff915736b7d8ccb3ef31846e5 0f8752957dd45229dafb92452329eb22469ff62e Scott Tobias <Scott@farclass.com> 1393532869 -0500	commit: made most controller actions unavailable. - in effect disabling webadministration
+0f8752957dd45229dafb92452329eb22469ff62e 896c1f955eb7275832f162ea2ed95d5594e8398e Scott Tobias <Scott@farclass.com> 1393592527 -0500	commit: prelim

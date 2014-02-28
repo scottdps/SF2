@@ -1,0 +1,27 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	url = https://github.com/scottdps/schoolfinder.git
+[branch "master"]
+	remote = origin2
+	merge = refs/heads/master
+	rebase = true
+[branch "Ajax"]
+	remote = origin
+	merge = refs/heads/Ajax
+[gui]
+	wmstate = normal
+	geometry = 844x415+468+135 189 188
+[branch "Ajax2"]
+	remote = origin
+	merge = refs/heads/Ajax
+[remote "origin2"]
+	url = https://github.com/scottdps/SchoolFinder2.git
+	fetch = +refs/heads/*:refs/remotes/origin2/*
+[branch "noadmin"]
+	remote = origin2
+	merge = refs/heads/master
